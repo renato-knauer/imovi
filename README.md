@@ -1,3 +1,3 @@
 <p align="center" style="background-color: #fff">
-    <img src="./img/imovi-logo.png" alt="iMovi">
+    <img src="./img/imovi-logotype.png" alt="iMovi">
 </p>
